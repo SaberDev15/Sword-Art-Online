@@ -2,18 +2,18 @@
 
 {} /* Background */
 .app {
-    background-image: url("http://orig01.deviantart.net/7bc6/f/2012/296/3/b/sao_kirito_and_asuna_by_jastersin21-d5i0wy8.png");
+    background-image: url("http://i.imgur.com/Z5rJvSF.png");
     background-size: cover !important;
     background-position: center;
 }
 .callout-backdrop {
     opacity:1 !important;
-    background: url("http://cdn.inquisitr.com/wp-content/uploads/2016/03/SAO-Ordinal-Scale.jpg");
+    background: url("http://i.imgur.com/Su8IfLc.jpg");
     background-size: cover;
     background-position: center;
 }
 .bda-backdrop {
-    background: url("https://lh3.googleusercontent.com/-HXXnMIjfQQM/Vsmf2WjkVkI/AAAAAAAAXLA/aUGM3WJQg44/w800-h800/9b13a6b62a7d259e92289bd89581ed701348532647_full.png");
+    background: url("http://i.imgur.com/dy0K5h9.png");
     background-size: cover;
 }
 .layers,
